@@ -1,0 +1,3 @@
+String tokenUser =
+    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NjMzZTcwY2M4ZTBkNGI2NWE3ZWNjMGE2YzA4M2MyOCIsIm5iZiI6MTczOTc4MzA2OC4wMTQwMDAyLCJzdWIiOiI2N2IyZmI5YmE0MGQwNGJjOTM5ZmFiNjgiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.On_PGorxTIBgWkei_CC3a9HaTOZ3i0j-e73saGDrWK8";
+String image_link = "https://image.tmdb.org/t/p/w500/";
